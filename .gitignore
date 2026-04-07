@@ -9,3 +9,8 @@ build/
 coverage/
 .vscode/
 .idea/
+
+.DS_Store
+._*
+.env
+.env.*
